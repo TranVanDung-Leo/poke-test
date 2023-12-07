@@ -1,0 +1,1 @@
+Import executed. Number of Pokemons processed is 18
